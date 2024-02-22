@@ -1,0 +1,8 @@
+.customTextarea {
+  background-color: black;
+}
+.customTextarea:focus {
+  outline: none !important;
+  box-shadow: 0 0 5px #719ece;
+  border-radius: 5px;
+}
